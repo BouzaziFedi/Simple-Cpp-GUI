@@ -1,0 +1,4 @@
+C:\Users\f.bouzazi\Desktop\UICpp\FirstUI\FirstUI\x64\Debug\FirstUI.vcxproj.AssemblyReference.cache
+C:\Users\f.bouzazi\Desktop\UICpp\FirstUI\FirstUI\x64\Debug\FirstUI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\f.bouzazi\Desktop\UICpp\FirstUI\FirstUI\x64\Debug\FirstUI.vcxproj.GenerateResource.cache
+C:\Users\f.bouzazi\Desktop\UICpp\FirstUI\FirstUI\x64\Debug\FirstUI.Dashboard.resources
